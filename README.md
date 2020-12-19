@@ -1,2 +1,2 @@
 # ChaKet
- Simple PHP Chat using socket
+ Simple Chat using socket
